@@ -1,8 +1,6 @@
 dmenu - dynamic menu
 ====================
 
-My favourite/custom dmenu patch.
-
 
 Includes the following Patches:
 - [border](https://tools.suckless.org/dmenu/patches/border/ "dmenu-border")
@@ -14,15 +12,14 @@ Includes the following Patches:
 
 Requirements
 ------------
-- dmenu 4.9 
 - Xlib header files.
 
 Installation
 -------------
 
     ~$ sudo apt-get install libxcb-xinerama0
-    ~$ git clone https://git.suckless.org/dmenu
-    ~$ cd dmenu
+    ~$ git clone https://github.com/Hewame/suckless.git
+    ~$ cd suckless/dmenu
     ~$ sudo make install
 
 Usage
