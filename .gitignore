@@ -1,3 +1,9 @@
+# Binary and Generated Config
+dwm
+dmenu
+config.h
+stest
+
 # Prerequisites
 *.d
 
