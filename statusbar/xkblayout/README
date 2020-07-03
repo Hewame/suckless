@@ -1,0 +1,4 @@
+Small program that prints the current XKB layout.  It is useful
+for constructing the status string for dwm.  For example:
+
+    xsetroot -name "$(xkblayout) -- $(date)"
